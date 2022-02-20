@@ -1,1 +1,1 @@
-![photo](/medias/photographies_oeuvre_ensemble.jpeg)
+![photo](/photographies/medias/photographies_oeuvre_ensemble.jpeg)
