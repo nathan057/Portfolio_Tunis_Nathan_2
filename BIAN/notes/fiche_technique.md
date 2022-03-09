@@ -30,7 +30,7 @@
 ### Un trépied pour les speakers, cables pour soutenir les projecteurs,
 
 # Ce qui vous a plu, vous a donné des idées et justifications
-### ¸J'ai vraiment aimé les projections comme unfold et les projections immersives ca ma vraiment accroché et j'aime le fait que je me sens dans l'oeuvre et ce n'est pas uniquement visuel
+### J'ai vraiment aimé les projections comme unfold et les projections immersives ca ma vraiment accroché et j'aime le fait que je me sens dans l'oeuvre et ce n'est pas uniquement visuel
 
 # Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications.
 ### Surtout l'oeuvre prosperity où en effet la machine détecte le grain de riz et essaye tranquillement de n'en prndre un. C'est énormément long et ça prend énormément de patience que ça ma un peu ennuyer comme oeuvre.
