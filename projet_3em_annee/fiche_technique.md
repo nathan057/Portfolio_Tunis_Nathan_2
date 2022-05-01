@@ -26,8 +26,8 @@ Cette oeuvre se situe dans une pièce où il y a 3 projecteurs pour le projeter 
 ![Photo](photographies/Autoportrait.jpg)
 ## Liste des composantes
 Il y a 4 hauts-parleurs 
-!
-[Photo](photographies/Haut-parleur.jpg)
+
+![Photo](photographies/Haut-parleur.jpg)
 
 Il y a 3 projecteurs (un pour chaque mur qui ont été projeté 
 
@@ -40,9 +40,9 @@ L'horloge et détecteur de mouvement
 ![Photo](photographies/Detecteur_mouvement.jpg)
 le téléphone 
 
-![Photo](/photographies/Telephone.jpg)
+![Photo](photographies/Telephone.jpg)
 
-![Photo](/photographies/Partie du téléphone.jpg)
+![Photo](photographies/Partie du téléphone.jpg)
 
 ## Liste des éléments
 ### Meuble blanc pour mettre le téléphone
