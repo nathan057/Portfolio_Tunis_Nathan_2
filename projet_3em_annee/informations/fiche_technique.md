@@ -21,7 +21,7 @@ Cette oeuvre se situe dans une pièce où il y a 3 projecteurs pour le projeter 
 
 ## Photographie de la mise en espace
 ### Photo de l'oeuvre dans son ensemble
-![Photo](photographies/ensemble_oeuvre.jpg)
+![Photo](projet_3em_annee/photographies/ensemble_oeuvre.jpg)
 ### Autoportrait
 ![Photo](photographies/Autoportrait.jpg)
 ## Liste des composantes
