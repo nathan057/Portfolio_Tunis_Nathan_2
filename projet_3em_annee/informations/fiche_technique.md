@@ -21,27 +21,27 @@ Cette oeuvre se situe dans une pièce où il y a 3 projecteurs pour le projeter 
 
 ## Photographie de la mise en espace
 ### Photo de l'oeuvre dans son ensemble
-![Photo](/photographies/ensemble_oeuvre.jpg)
+![Photo](photographies/ensemble_oeuvre.jpg)
 ### Autoportrait
-[Photo](/photographies/Autoportrait.jpg)
+![Photo](photographies/Autoportrait.jpg)
 ## Liste des composantes
 Il y a 4 hauts-parleurs 
-[Photo](/photographies/Haut-parleur.jpg)
+![Photo](photographies/Haut-parleur.jpg)
 Il y a 3 projecteurs (un pour chaque mur qui ont été projeté 
-[Photo](/photographies/Projecteur.jpg)
+![Photo](photographies/Projecteur.jpg)
 L'horloge et détecteur de mouvement 
-[Photo](/photographies/Horloge.jpg)
-[Photo](/photographies/Detecteur_mouvement.jpg)
+![Photo](photographies/Horloge.jpg)
+![Photo](photographies/Detecteur_mouvement.jpg)
 le téléphone 
-[Photo](/photographies/Telephone.jpg)
-[Photo](/photographies/Partie du téléphone.jpg)
+![Photo](/photographies/Telephone.jpg)
+![Photo](/photographies/Partie du téléphone.jpg)
 
 ## Liste des éléments
 ### Meuble blanc pour mettre le téléphone
-[Photo](photographies/Meuble.jpg)
+![Photo](photographies/Meuble.jpg)
 
 ### Trépied pour soutenir l'horloge
-[Photo](photographies/Horloge.jpg)
+![Photo](photographies/Horloge.jpg)
 Pas tres visible mais on voit les pattes du trépied qui soutient l'horloge
 
 ## Ce que j'ai aimé 
