@@ -19,23 +19,30 @@ L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Se
 ## Mise en exposition de l'horloge de l'apocalypse
 Cette oeuvre se situe dans une pièce où il y a 3 projecteurs pour le projeter sur le mur et 4 haut-paleur à chaque coin de la pièce. Puis il y a une horloge au millieu de la pièce et grâce a un détecteur de mouvement cela permet  qu'à chaque fois que tu tournes l'aiguille une nouvelle image et donc une nouvelle époque va commencer. Après avoir tourner l'aiguille tout le tour de l'horloge, le téléphone va sonner pour annoncer la fin du monde et donc la fin de l'exposition.
 
-## Photo de la mise en espace
-
+## Photographie de la mise en espace
 ### Photo de l'oeuvre dans son ensemble
-
+[Photo](photographies/ensemble_oeuvre.jpg)
 ### Autoportrait
-
+[Photo](photographies/Autoportrait.jpg)
 ## Liste des composantes
-Il y a 4 hauts-parleurs (photo)
-Il y a 3 projecteurs (un pour chaque mur qui ont été projeté (photo)
-L'horloge et détecteur de mouvement (photo)
-le téléphone (photo)
+Il y a 4 hauts-parleurs 
+[Photo](photographies/Haut-parleur.jpg)
+Il y a 3 projecteurs (un pour chaque mur qui ont été projeté 
+[Photo](photographies/Projecteur.jpg)
+L'horloge et détecteur de mouvement 
+[Photo](photographies/Horloge.jpg)
+[Photo](photographies/Detecteur_mouvement.jpg)
+le téléphone 
+[Photo](photographies/Telephone.jpg)
+[Photo](photographies/Partie du téléphone.jpg)
 
 ## Liste des éléments
 ### Meuble blanc pour mettre le téléphone
+[Photo](photographies/Meuble.jpg)
 
 ### Trépied pour soutenir l'horloge
-
+[Photo](photographies/Horloge.jpg)
+Pas tres visible mais on voit les pattes du trépied qui soutient l'horloge
 
 ## Ce que j'ai aimé 
 J'ai aimé la créativité et la précision de cette oeuvre. J'ai trouvé que tout allait bien ensemble et tout au long de l'expérience j'était toujours curieux et intérésser de voir à quoi ressemble la prochaine image. Aussi j'ai aimé le fait qu'il aille mit des haut-parleur à chque coin de la pièce car ca donnait l'impression que nous étions vraiment entrain de vivre l'éxpérience pour de vrai.
