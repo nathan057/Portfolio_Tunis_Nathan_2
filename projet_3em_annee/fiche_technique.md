@@ -38,8 +38,8 @@ L'horloge et détecteur de mouvement
 ![Photo](photographies/Horloge.jpg)
 
 ![Photo](photographies/Detecteur_mouvement.jpg)
-le téléphone 
 
+  le téléphone 
 ![Photo](photographies/Telephone.jpg)
 
 ![Photo](photographies/Partie du téléphone.jpg)
