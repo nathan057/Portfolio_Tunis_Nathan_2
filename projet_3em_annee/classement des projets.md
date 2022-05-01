@@ -1,7 +1,7 @@
 # Projet en ordre de préférence #
 
 ## 1) l'Horloge de l'apocalypse : ##
-Projet très originale et créatif tout au long de l'exposition j'ai été intéresser du début à la fin. Très bon projet très précis et tout allaient très bien ensemble 
+Projet très originale et créatif tout au long de l'exposition j'ai été intéresser du début à la fin. Très bon projet, très précis et tout allaient très bien ensemble 
 
 ## 2) 3 minutes : ##
 Après avoir été a la phase de développement ce projet m'intéressais beaucoup et lorsque j'y suis retourné pour l'exposition j'ai trouver ça meilleur que je m'imaginais. Tu ressent vraiment l'émotion et l'intention qu'il veulent te donner et j'ai vraiment apprécier cette oeuvre
