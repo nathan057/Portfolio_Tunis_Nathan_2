@@ -52,6 +52,7 @@ Une tablette pour contrôler le son et l'intensité de la vibration transmis aux
 
 Des lumières accrocher au plafond 
 
+![Photo](photographies/lumiere.jpg)
 
 
 
