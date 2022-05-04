@@ -48,6 +48,12 @@ photo de l'ensemble de l'oeuvre du fleuve
 Liste des éléments
 Une tablette pour contrôler le son et l'intensité de la vibration transmis aux transducteurs, des prises de connection, des extensions etc
 
+![Photo](photographies/centre_de_controle.jpg)
+
+Des lumières accrocher au plafond 
+
+
+
 
 
 
