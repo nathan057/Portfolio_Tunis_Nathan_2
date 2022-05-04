@@ -24,14 +24,16 @@ C'est sur le vaste territoire compris entre Sept-îles et Kegaska, sur la Côte-
 
 
 ## Mise en espace de l'expoition. 
- Il y a 4 planches de bois debout mis à la verticale positionné de différents angles. Puis à l"extérieur de la plateforme il y a des transducteurs résonner le son sur les planches de bois. Alors lorsqu'on met nos mains ou nos oreilles sur la plateforme de bois on peut ressentir de la vibration. Puis autour de la pièce il y a des hauts-parleurs car l'oeuvre l'en deçà est une oeuvre essentiellement auditive, puis les haut-parleurs s'activent au moment ou ils détectent des gens rentrer.
+ Il y a 4 planches de bois debout mis à la verticale positionné de différents angles. Puis à l"extérieur de la plateforme il y a des transducteurs résonner le son sur les planches de bois. Alors lorsqu'on met nos mains ou nos oreilles sur la plateforme de bois on peut ressentir de la vibration. Puis autour de la pièce il y a des hauts-parleurs car l'oeuvre l'en deçà est une oeuvre essentiellement auditive, puis les haut-parleurs s'activent au moment ou ils détectent des gens rentrer. Ensuite pour le fleuvre il y a un projecteur qui projète la vidéo à l'écran.
 (photo pris : [d'un site web photo haut-parleur](https://www.crazypng.com/download.php?url=http://pngimg.com/download/11164))
 
 ![Photo](photographies/transducteurs.jpg)
 
-![Photo](
+![Photo](photographies/ensemble_oeuvre.jpg)
 
 (photo pris : [d'un site web photo détecteur de mouvement](https://fr.depositphotos.com/stock-photos/détecteur-de-mouvement.html?qview=307882386))
+
+![Photo](
 
 
 Liste des éléments
