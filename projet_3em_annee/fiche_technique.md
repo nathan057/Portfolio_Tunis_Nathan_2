@@ -43,8 +43,6 @@ L'horloge et détecteur de mouvement
 
 ![Photo](photographies/Telephone.jpg)
 
-![Photo](photographies/Partie du téléphone.jpg)
-
 ## Liste des éléments
 ### Meuble blanc pour mettre le téléphone
 ![Photo](photographies/Meuble.jpg)
