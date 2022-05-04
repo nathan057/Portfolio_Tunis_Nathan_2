@@ -43,7 +43,7 @@ photo du projecteur
 
 photo de l'ensemble de l'oeuvre du fleuve
 
-
+![Photo](photographies/ensemble_oeuvre_fleuve.jpg)
 
 Liste des éléments
 
