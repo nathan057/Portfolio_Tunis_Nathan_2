@@ -46,6 +46,12 @@ photo de l'ensemble de l'oeuvre du fleuve
 ![Photo](photographies/ensemble_oeuvre_fleuve.jpg)
 
 Liste des éléments
+Une tablette pour contrôler le son et l'intensité de la vibration transmis aux transducteurs, des prises de connection, des extensions etc
+
+
+
+
+
 
 Ce que j'ai aimé 
 
