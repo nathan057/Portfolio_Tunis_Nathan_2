@@ -23,7 +23,13 @@ Comme le suggèrent les coordonnées géographiques de l'intitulé cette oeuvre 
 C'est sur le vaste territoire compris entre Sept-îles et Kegaska, sur la Côte-Nord, que furent captés les paywages sonores singuliers au coeur de cette oeuvre. L'usage d'hydrogènes, soit des micros pouvant enregistrer sous l'eau, ainsi que des géophones spécialement conçus par les artistes pour capter les vibrations du sol et les traduire en sons, fut essentiel au projet. Diffusée via des transducteurs - qui ici transforment les parois de bois en membranes de transmission sonore -, la composition qui découle de ces enregistrements permet d'entendre une faune marine complexe, notamment une colonie d'oursins, et des sons que ni les artistes ni les pêcheurs, ni d'autres habitants rencontrés dans la région ne furent capables d'identifier avec précision. Cette part de mystère est soutenue par les détecteurs de mouvements qui active la bande-son, avec des moments de silence lorsque les gens se font absents. Le mode d'attention particulier que ces silences convoquent fait partie intégrante de l'oeuvre, il s'agit d'un motif que le duo traite de longue date. (Photo pris : [du cartel lors de l'exposition](photographies/cartel_l'en_deca.jpg))
 
 
-## Mise en espace de l'expoition.
+## Mise en espace de l'expoition. 
+ Il y a 4 planches de bois debout mis à la verticale positionné de différents angles. Puis à l"extérieur de la plateforme il y a des transducteurs résonner le son sur les planches de bois. Alors lorsqu'on met nos mains ou nos oreilles sur la plateforme de bois on peut ressentir de la vibration. Puis autour de la pièce il y a des hauts-parleurs car l'oeuvre l'en deçà est une oeuvre essentiellement auditive, puis les haut-parleurs s'activent au moment ou ils détectent des gens rentrer.
+(photo pris : [d'un site web photo haut-parleur](https://www.crazypng.com/download.php?url=http://pngimg.com/download/11164))
+![Photo](
+![Photo](
+(photo pris : [d'un site web photo détecteur de mouvement](https://fr.depositphotos.com/stock-photos/détecteur-de-mouvement.html?qview=307882386))
+
 
 Liste des éléments
 
