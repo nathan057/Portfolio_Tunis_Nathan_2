@@ -55,13 +55,10 @@ Des lumières accrocher au plafond
 ![Photo](photographies/lumiere.jpg)
 
 
+## Ce que j'ai aimé
+Ce que j'ai aimé c'est qu'ils ont fait une oeuvre qui se concentre plus sur les autres sens qu'une simple oeuvre visuelle. Je trouve ça très originale car c'est rare qu'une oeuvre se concentre essentiellement sur l'audition et le touché. 
 
-
-
-
-
-Ce que j'ai aimé 
-
-Ce que j'ai moins aimé 
+## Ce que j'ai moins aimé 
+J'enlèverais l'écran qui représente le fleuve. Oui c'est complémentaire mais je crois pas que c'est nécessaire. Une simple affiche qui explique le lieu pourrait être suffisant
 
 Croquis
