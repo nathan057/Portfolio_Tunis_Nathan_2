@@ -20,4 +20,4 @@ Paravent Mosaïque de Steve Heimbecker est une installation vidéo à haute rés
 
 ## Mise en exposition
 Les oeuvres au Couloirs de la Place des Arts dont Paravent Mosaïque contient une mosaïque de 35 écrans numériques qui permet la diffusion d'oeuvres et d'animations numériques. Aussi il y a des hauts- parleurs pour diriger le son un peu partout dans la pièce.
-![Photo]
+![Photo](photographies/ensemble_oeuvre.jpg)
