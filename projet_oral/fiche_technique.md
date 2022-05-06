@@ -1,24 +1,42 @@
 # Introduction
 
 ## Sujet Posé
-Dans le cadre du cours <<Documentation d'une collection multimédia>> on est rendu au point où il faut présenter une oeuvre qu'on est allé voir seule et la présenter au reste de la classe. Maintenant que c'est a mon tour de présenter je vais vous parler et vous en faire apprendre sur l'exposition intitulé Couloirs de la Place des Arts.
+Dans le cadre du cours <<Documentation d'une collection multimédia>> on est rendu au point où il faut présenter une oeuvre qu'on est allé voir seule et la présenter au reste de la classe. Maintenant que c'est a mon tour de présenter je vais vous parler et vous en faire apprendre sur l'exposition que j'ai choisi
 
-##
+## Présentation de mon oeuvre
+Situé entre le métro Place des Arts et le complexe Desjardins à Montréal, en plein millieu du quartier des spectacles : Il y a une zone multimédia qui est installée dans son couloir principal. Une mosaïquye de 35 écrans numériques offre une plateforme originale de diffusion.
+!(Texte pris du [gouvernement du Québec](https://www.calq.gouv.qc.ca/actualites-et-publications/actualites/le-public-peut-voir-deux-oeuvres-numeriques-soutenues-par-la-place-des-arts-et-le-conseil-des-arts-et-des-lettres-du-quebec)). Ça permet aussi à la Place des Arts de mettre en vitrine autant des créateurs numériques emergents que des artistes déjà établies. Cela permet de donner de bonnes opportunité à des artistes moins connus. !(Texte pris du [gouvernement du Québec](https://www.calq.gouv.qc.ca/actualites-et-publications/actualites/nouvelles-oeuvres-numeriques-place-des-arts-2019))
+
+## Sujet divisé 
+Mes les points importants sont 
+Titre de l'oeuvre 
+Les artistes et les collaborateurs
+Année de réalisation
+Nom de l'exposition
+Lieu de la mise en exposition
+Date de ma visite
+Description de l'oeuvre
+Mise en exposition 
+Liste des éléments
+Ce que j'ai aimé
+Ce que j'ai moins aimé 
+Une vidéo pour vous montrer ça l'air de quoi
 
 # Développement
 
-## Couloirs de la Place des Arts 
+## Titre de l'oeuvre 
+Paravent Mosaïque 
 
 ## Artistes
 Steve Heimbecker  
-### Collaboration 
+### Collaborateur
 Patrice Coulombe et Lize Dezainde
 
 ## Année de réalisation 
 2016
 
 ## Nom de l'exposition
-Paravent Mosaïque 
+ Le couloir de la Place des Arts
 
 ## Lieu de mise en exposition
 Place des Arts
@@ -56,8 +74,13 @@ J'ai vraiment aimé le fait qu'il comporte des miroirs sur le plafond. Parce que
 ## Ce que j'ai moins aimé. 
 j'ai surtout moins aimé le lieu de l'emplacement. C'est très ouvert et beaucoup de monde peut passer par là. Je trouve qu'il serait une meilleure idée de le mettre dans un endroit fermé et assez sombre pour pouvoir possiblement permettre et favoriser le réflètement des images car pour l'instant en raison que c'est ouvert on voit de la lumière qui est un peu inutile à mon avis et le son ne peut pas être aussi fort qu'il le pourrait car des personnes marchent, parlent ce qui dérange l'exposition.
 
+## Lien avec d'autres oeuvres multimédia vus cette session
+Le coté immersif des oeuvres
+
+
 ## Vidéo et extrait
 [![TEXTE QUE VOUS DÉSIREZ ICI](https://www.youtube.com/vi/XmpUo4awliM/0.jpg)](https://www.youtube.com/watch?v=XmpUo4awliM)
 
 
-# Conclusion 
+# Conclusion
+
