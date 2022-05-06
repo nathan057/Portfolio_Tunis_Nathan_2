@@ -4,7 +4,7 @@
 Dans le cadre du cours <<Documentation d'une collection multimédia>> on est rendu au point où il faut présenter une oeuvre qu'on est allé voir seule et la présenter au reste de la classe. Maintenant que c'est a mon tour de présenter je vais vous parler et vous en faire apprendre plus sur l'exposition que j'ai choisi
 
 ## Présentation de mon oeuvre
-Situé entre le métro Place des Arts et le complexe Desjardins à Montréal, en plein millieu du quartier des spectacles : Il y a une zone multimédia qui est installée dans son couloir principal. Une mosaïquye de 35 écrans numériques offre une plateforme originale de diffusion.
+Situé entre le métro Place des Arts et le complexe Desjardins à Montréal, en plein millieu du quartier des spectacles : Il y a une zone multimédia qui est installée dans son couloir principal. Une mosaïque de 35 écrans numériques offre une plateforme originale de diffusion.
 !(Texte pris du [gouvernement du Québec](https://www.calq.gouv.qc.ca/actualites-et-publications/actualites/le-public-peut-voir-deux-oeuvres-numeriques-soutenues-par-la-place-des-arts-et-le-conseil-des-arts-et-des-lettres-du-quebec)). Ça permet aussi à la Place des Arts de mettre en vitrine autant des créateurs numériques emergents que des artistes déjà établies. Cela permet de donner de bonnes opportunité à des artistes moins connus. !(Texte pris du [gouvernement du Québec](https://www.calq.gouv.qc.ca/actualites-et-publications/actualites/nouvelles-oeuvres-numeriques-place-des-arts-2019))
 
 ## Sujet divisé 
