@@ -27,7 +27,7 @@ C'est sur le vaste territoire compris entre Sept-îles et Kegaska, sur la Côte-
  Il y a 4 planches de bois debout mis à la verticale positionné de différents angles. Puis à l"extérieur de la plateforme il y a des transducteurs résonner le son sur les planches de bois. Alors lorsqu'on met nos mains ou nos oreilles sur la plateforme de bois on peut ressentir de la vibration. Puis autour de la pièce il y a des hauts-parleurs car l'oeuvre l'en deçà est une oeuvre essentiellement auditive, puis les haut-parleurs s'activent au moment ou ils détectent des gens rentrer. Ensuite pour le fleuvre il y a un projecteur qui projète la vidéo à l'écran.
 ![Photo](photographies/haut_parleur.jfif)
 
-(photo pris : [d'un site web photo haut-parleur](https://www.bing.com/images/search?view=detailV2&ccid=AeB35eIM&id=1A717D70295F699CA2176538AA69500410DB9E37&thid=OIP.AeB35eIMn2ZFG3sxKG4JggHaFT&mediaurl=https%3a%2f%2fwww.pmclab.fr%2fwp-content%2fuploads%2fTop-10-Des-Meilleurs-Haut-parleurs-De-Moniteur-De-Studio-USB-1024x733.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.01e077e5e20c9f66451b7b31286e0982%3frik%3dN57bEARQaao4ZQ%26pid%3dImgRaw%26r%3d0&exph=733&expw=1024&q=haut+parleur+d%27une+t%c3%a9l%c3%a9vision+photo&simid=607999079721220629&FORM=IRPRST&ck=10BF982EC67A1B8888C2B858212BD171&selectedIndex=0&ajaxhist=0&ajaxserp=0))
+(photo pris : [haut-parleur](https://www.bing.com/images/search?view=detailV2&ccid=AeB35eIM&id=1A717D70295F699CA2176538AA69500410DB9E37&thid=OIP.AeB35eIMn2ZFG3sxKG4JggHaFT&mediaurl=https%3a%2f%2fwww.pmclab.fr%2fwp-content%2fuploads%2fTop-10-Des-Meilleurs-Haut-parleurs-De-Moniteur-De-Studio-USB-1024x733.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.01e077e5e20c9f66451b7b31286e0982%3frik%3dN57bEARQaao4ZQ%26pid%3dImgRaw%26r%3d0&exph=733&expw=1024&q=haut+parleur+d%27une+t%c3%a9l%c3%a9vision+photo&simid=607999079721220629&FORM=IRPRST&ck=10BF982EC67A1B8888C2B858212BD171&selectedIndex=0&ajaxhist=0&ajaxserp=0))
 
 photo de transducteur
 
@@ -37,7 +37,8 @@ photo de l'ensemble de l'oeuvre l'en deçà
 
 ![Photo](photographies/ensemble_oeuvre.jpg)
 
-(photo pris : [d'un site web photo détecteur de mouvement](https://fr.depositphotos.com/stock-photos/détecteur-de-mouvement.html?qview=307882386))
+![Photo](
+(photo pris : [détecteur de mouvement](https://www.bing.com/images/search?view=detailV2&ccid=aBpkTaAh&id=75BC1AAEF17FF98CB9CAAD56332E368F5A94D462&thid=OIP.aBpkTaAhi5klmHcUeNr_IQHaE8&mediaurl=https%3a%2f%2fwww.securitasdirect.fr%2fsites%2fdefault%2ffiles%2fdetecteurs-mouvement-image-fonctionnement.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.681a644da0218b992598771478daff21%3frik%3dYtSUWo82LjNWrQ%26pid%3dImgRaw%26r%3d0&exph=427&expw=640&q=d%c3%a9tecteur+de+mouvement+photographique&simid=608008666091043046&FORM=IRPRST&ck=9A4AE1E52BB430776B83D8CE3D742A44&selectedIndex=0&idpp=overlayview&ajaxhist=0&ajaxserp=0))
 
 photo du projecteur
 
