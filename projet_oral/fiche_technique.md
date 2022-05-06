@@ -75,7 +75,7 @@ J'ai vraiment aimé le fait qu'il comporte des miroirs sur le plafond. Parce que
 j'ai surtout moins aimé le lieu de l'emplacement. C'est très ouvert et beaucoup de monde peut passer par là. Je trouve qu'il serait une meilleure idée de le mettre dans un endroit fermé et assez sombre pour pouvoir possiblement permettre et favoriser le réflètement des images car pour l'instant en raison que c'est ouvert on voit de la lumière qui est un peu inutile à mon avis et le son ne peut pas être aussi fort qu'il le pourrait car des personnes marchent, parlent ce qui dérange l'exposition.
 
 ## Lien avec d'autres oeuvres multimédia vus cette session
-Le coté immersif des oeuvres
+Le coté immersif des oeuvres comme si on était entouré par les oeuvres. La meilleure comparaison serait l'oeuvre que j'ai visité à la BIAN (Arsenal Art comtemporain) qui était Unfold. L'oeuvre qui avait 3 écrans 1 par dessus nous 1 en face de nous et 1 en dessous. La façon dont était placé les écrans faisaient en sorte qu'on avait l'air transporté mais intégré dans l'oeuvre. Malgré que mon oeuvre n'est pas fait de la même manière le reflet sur les miroirs du plafond fait en sorte que l'effet est très similaire.
 
 
 ## Vidéo et extrait
