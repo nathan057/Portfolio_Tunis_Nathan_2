@@ -29,5 +29,5 @@ Les oeuvres au Couloirs de la Place des Arts dont Paravent Mosaïque contient un
 
 ## Liste des éléments
 Les images des écrans sont reflétées sur les miroirs installés au plafond 
-Cela 
+
 ![Photo](photographies/miroir_plafond_oeuvre.jpg)
