@@ -28,6 +28,7 @@ Les oeuvres au Couloirs de la Place des Arts dont Paravent Mosaïque contient un
 (photo pris : [d'un site web photo paravent mosaïque](https://heimbecker.files.wordpress.com/2017/02/paravent-mosaique-1-72.jpg))
 
 ![Photo](photographies/haut_parleur.jfif)
+
 (photo pris : [d'un site web photo haut-parleur](https://www.bing.com/images/search?view=detailV2&ccid=AeB35eIM&id=1A717D70295F699CA2176538AA69500410DB9E37&thid=OIP.AeB35eIMn2ZFG3sxKG4JggHaFT&mediaurl=https%3a%2f%2fwww.pmclab.fr%2fwp-content%2fuploads%2fTop-10-Des-Meilleurs-Haut-parleurs-De-Moniteur-De-Studio-USB-1024x733.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.01e077e5e20c9f66451b7b31286e0982%3frik%3dN57bEARQaao4ZQ%26pid%3dImgRaw%26r%3d0&exph=733&expw=1024&q=haut+parleur+d%27une+t%c3%a9l%c3%a9vision+photo&simid=607999079721220629&FORM=IRPRST&ck=10BF982EC67A1B8888C2B858212BD171&selectedIndex=0&ajaxhist=0&ajaxserp=0))
 
 
