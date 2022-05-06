@@ -36,6 +36,7 @@ Les oeuvres au Couloirs de la Place des Arts dont Paravent Mosaïque contient un
 Les images des écrans sont reflétées sur les miroirs installés au plafond cela donne un effet globale comme si tu faisait partie de l'oeuvre
 
 ![Photo](photographies/miroir_plafond_oeuvre.jpg)
+
 (photo pris : [d'un site web photo paravent mosaïque](https://heimbecker.files.wordpress.com/2017/02/paravent-mosaique-1-72.jpg))
 
 Des fils connecte l'ordinateur et les écrans pour transmettre l'information et permettre la diffusion des images sur les écrans.
