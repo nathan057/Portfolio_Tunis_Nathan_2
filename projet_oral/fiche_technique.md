@@ -47,4 +47,8 @@ J'ai vraiment aimé le fait qu'il comporte des miroirs sur le plafond. Parce que
 ## Ce que j'ai moins aimé. 
 j'ai surtout moins aimé le lieu de l'emplacement. C'est très ouvert et beaucoup de monde peut passer par là. Je trouve qu'il serait une meilleure idée de le mettre dans un endroit fermé et assez sombre pour pouvoir possiblement permettre et favoriser le réflètement des images car pour l'instant en raison que c'est ouvert on voit de la lumière qui est un peu inutile à mon avis et le son ne peut pas être aussi fort qu'il le pourrait car des personnes marchent, parlent ce qui dérange l'exposition.
 
+## Vidéo et extrait
+[![TEXTE QUE VOUS DÉSIREZ ICI](https://www.youtube.com/vi/XmpUo4awliM/0.jpg)](https://www.youtube.com/watch?v=XmpUo4awliM)
+
+
 ## Croquis
