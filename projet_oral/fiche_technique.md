@@ -1,8 +1,17 @@
-# Couloirs de la Place des Arts 
+# Introduction
+
+## Sujet Posé
+Dans le cadre du cours <<Documentation d'une collection multimédia>> on est rendu au point où il faut présenter une oeuvre qu'on est allé voir seule et la présenter au reste de la classe. Maintenant que c'est a mon tour de présenter je vais vous parler et vous en faire apprendre sur l'exposition intitulé Couloirs de la Place des Arts.
+
+##
+
+# Développement
+
+## Couloirs de la Place des Arts 
 
 ## Artistes
 Steve Heimbecker  
-Collaboration 
+### Collaboration 
 Patrice Coulombe et Lize Dezainde
 
 ## Année de réalisation 
@@ -23,7 +32,12 @@ Paravent Mosaïque de Steve Heimbecker est une installation vidéo à haute rés
 ## Mise en exposition
 Les oeuvres au Couloirs de la Place des Arts dont Paravent Mosaïque contient une mosaïque de 35 écrans numériques qui permet la diffusion d'oeuvres et d'animations numériques. Aussi il y a des hauts- parleurs pour diriger le son un peu partout dans la pièce. Ensuite les images ne sont pas projeté mais sont diffusés un peu comme si c'était des télévisions. Donc la base de données vient probablement d'un ordinateur pour programmer et préparer la diffusion des images sur les écrans. 
 
-### Photo de l'ensemble de l'oeuvre
+## Liste des éléments
+Les images des écrans sont reflétées sur les miroirs installés au plafond cela donne un effet globale comme si tu faisait partie de l'oeuvre
+
+Des fils connecte l'ordinateur et les écrans pour transmettre l'information et permettre la diffusion des images sur les écrans.
+
+### Photo mise en exposition et des éléments
 ![Photo](photographies/ensemble_oeuvre.jpg)
 (photo pris : [d'un site web photo paravent mosaïque](https://heimbecker.files.wordpress.com/2017/02/paravent-mosaique-1-72.jpg))
 
@@ -31,15 +45,10 @@ Les oeuvres au Couloirs de la Place des Arts dont Paravent Mosaïque contient un
 
 (photo pris : [d'un site web photo haut-parleur](https://www.bing.com/images/search?view=detailV2&ccid=AeB35eIM&id=1A717D70295F699CA2176538AA69500410DB9E37&thid=OIP.AeB35eIMn2ZFG3sxKG4JggHaFT&mediaurl=https%3a%2f%2fwww.pmclab.fr%2fwp-content%2fuploads%2fTop-10-Des-Meilleurs-Haut-parleurs-De-Moniteur-De-Studio-USB-1024x733.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.01e077e5e20c9f66451b7b31286e0982%3frik%3dN57bEARQaao4ZQ%26pid%3dImgRaw%26r%3d0&exph=733&expw=1024&q=haut+parleur+d%27une+t%c3%a9l%c3%a9vision+photo&simid=607999079721220629&FORM=IRPRST&ck=10BF982EC67A1B8888C2B858212BD171&selectedIndex=0&ajaxhist=0&ajaxserp=0))
 
-
-## Liste des éléments
-Les images des écrans sont reflétées sur les miroirs installés au plafond cela donne un effet globale comme si tu faisait partie de l'oeuvre
-
 ![Photo](photographies/miroir_plafond_oeuvre.jpg)
 
 (photo pris : [d'un site web photo paravent mosaïque](https://heimbecker.files.wordpress.com/2017/02/paravent-mosaique-1-72.jpg))
 
-Des fils connecte l'ordinateur et les écrans pour transmettre l'information et permettre la diffusion des images sur les écrans.
 
 ## Ce que j'ai aimé
 J'ai vraiment aimé le fait qu'il comporte des miroirs sur le plafond. Parce que c'est beaucoup plus beau esthétiquement de voir l'oeuvre refléter sur le plafond que si on voyait juste la lumière des écrans avec aucun reflet. Aussi ça donne plus un effet de vivre dans l'oeuvre et un côté immersif que juste regarder un écran et la vidéo qui défile sur les images. En plus ayant une réflexion sur le mur ça attire l'oeil a regardé un peu partout et d'admirer la vue. 
@@ -51,4 +60,4 @@ j'ai surtout moins aimé le lieu de l'emplacement. C'est très ouvert et beaucou
 [![TEXTE QUE VOUS DÉSIREZ ICI](https://www.youtube.com/vi/XmpUo4awliM/0.jpg)](https://www.youtube.com/watch?v=XmpUo4awliM)
 
 
-## Croquis
+# Conclusion 
