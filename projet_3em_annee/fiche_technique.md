@@ -59,3 +59,4 @@ J'ai aimé la créativité et la précision de cette oeuvre. J'ai trouvé que to
 La seule chose que j'ai moins aimé dans le projet et cela est un mini détail c'est le fait que lorsque le téléphone sonne et on répond ça nous prend un moment avant de comprendre qu'il faut raccrocher pour terminer l'expérimentation. Je pense il y aurait un moyen de l'améliorer en enregistrant une voix pour nous dire quoi faire et nous guider.
 
 ## Croquis
+![Photo](croquis/croquis_projet_3em_annee.jpg)
