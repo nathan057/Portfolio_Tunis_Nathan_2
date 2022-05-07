@@ -87,5 +87,5 @@ Le coté immersif des oeuvres comme si on était entouré par les oeuvres. La me
 Oeuvre qui comporte des mosaïques qui permet la diffusion d'oeuvres et d'animations numériques sur 35 écrans. Puis les images qu'ont voient sur les écrans ne sont pas projeté ils sont juste diffuser un peu comme une télévision. Les images des écrans sont reflétés sur des miroirs qui sont au plafond.
 
 ## Ouverture
-Grâce a ce cours j'ai appris pleins de nouvelles choses, surtout le fait de comprendre le fonctionnement d'une oeuvre multimédia, les éléments nécessaires lorsque je vais être sur le point de créer une oeuvre multimédia ou numérique. Puis En allant voir des oeuvres multimédia ça ma donner beaucoup d'idée lorsqu'il sera temps pour moi de créer une oeuvre multiméedia. 
+Grâce a ce cours j'ai appris pleins de nouvelles choses, surtout le fait de comprendre le fonctionnement d'une oeuvre multimédia, les éléments nécessaires lorsque je vais être sur le point de créer une oeuvre multimédia ou numérique. Puis en allant voir des oeuvres multimédia ça ma donner beaucoup d'idée lorsqu'il sera temps pour moi de créer une oeuvre multiméedia. 
 
