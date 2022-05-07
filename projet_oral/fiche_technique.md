@@ -1,7 +1,7 @@
 # Introduction
 
 ## Sujet Posé
-Dans le cadre du cours <<Documentation d'une collection multimédia>> on est rendu au point où il faut présenter une oeuvre qu'on est allé voir seule et la présenter au reste de la classe. Maintenant que c'est a mon tour de présenter je vais vous parler et vous en faire apprendre plus sur l'exposition que j'ai choisi
+Dans le cadre du cours <<Documentation d'une collection multimédia>> on est rendu au point où il faut présenter une oeuvre qu'on est allé voir seule et la présenter au reste de la classe. Maintenant que c'est a mon tour de présenter je vais vous parler de mon oeuvre intituté Couloirs de la Place des Arts et vous en faire apprendre plus sur l'exposition que j'ai choisi
 
 ## Présentation de mon oeuvre
 Situé entre le métro Place des Arts et le complexe Desjardins à Montréal, en plein millieu du quartier des spectacles : Il y a une zone multimédia qui est installée dans son couloir principal. Une mosaïque de 35 écrans numériques offre une plateforme originale de diffusion.
