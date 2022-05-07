@@ -66,4 +66,5 @@ Ce que j'ai aimé c'est qu'ils ont fait une oeuvre qui se concentre plus sur les
 J'enlèverais l'écran qui représente le fleuve. En fait c'est complémentaire et ce n'est pas quelque chose de nécessairement inutile mais je crois pas que c'est nécessaire. Une simple affiche qui explique le lieu pourrait être suffisant
 
 Croquis
+
 ![Photo](croquis/croquis_configuration_sensible.jpg)
