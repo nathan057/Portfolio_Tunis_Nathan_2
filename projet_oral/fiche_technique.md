@@ -9,19 +9,19 @@ Situé entre le métro Place des Arts et le complexe Desjardins à Montréal, en
 
 ## Sujet divisé 
 Mes les points importants sont 
-Titre de l'oeuvre 
-Les artistes et les collaborateurs
-Année de réalisation
-Nom de l'exposition
-Lieu de la mise en exposition
-Date de ma visite
-Description de l'oeuvre
-Mise en exposition 
-Liste des éléments
-Ce que j'ai aimé
-Ce que j'ai moins aimé 
-Une vidéo pour vous montrer ça l'air de quoi
-Lien avec d'autres oeuvres multimédia
+titre de l'oeuvre, 
+les artistes et les collaborateurs,
+année de réalisation,
+nom de l'exposition,
+lieu de la mise en exposition,
+date de ma visite,
+description de l'oeuvre,
+mise en exposition, 
+liste des éléments,
+ce que j'ai aimé,
+ce que j'ai moins aimé, 
+une vidéo pour vous montrer ça l'air de quoi,
+lien avec d'autres oeuvres multimédia
 
 # Développement
 
